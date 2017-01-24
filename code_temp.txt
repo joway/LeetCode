@@ -13,5 +13,6 @@ class Solution(object):
 
 
 if __name__ == '__main__':
-    result = Solution().{{ method }}()
+    nums = []
+    result = Solution().{{ method }}(nums)
     print(result)
